@@ -2,7 +2,7 @@ import polib
 import pandas as pd
 
 # đọc file excel
-df = pd.read_excel("translation-final.xlsx")
+df = pd.read_excel("Translation-SmartDesk.xlsx")
 
 # tạo file po mới
 po = polib.POFile()
