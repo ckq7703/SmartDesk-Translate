@@ -1171,7 +1171,7 @@ msgid "Entity"
 msgstr "Thực thể"
 
 msgid "Opening date"
-msgstr "Ngày khai mạc"
+msgstr "Ngày tạo"
 
 msgid "Resolution date"
 msgstr "Ngày quyết định"
@@ -7465,7 +7465,7 @@ msgid "knowledge-base"
 msgstr "cơ sở kiến thức"
 
 msgid "faq"
-msgstr "câu hỏi thường gặp"
+msgstr "faq"
 
 msgid "articles"
 msgstr "bài viết"
@@ -21833,4 +21833,4 @@ msgid "Reservation"
 msgstr "Đặt trước tài nguyên"
 
 msgid "FAQ"
-msgstr "Câu hỏi thường gặp"
+msgstr "FAQ"
